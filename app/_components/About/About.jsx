@@ -40,7 +40,7 @@ const About = () => {
             About Me
           </h2>
           <p className='text-base lg:text-lg'>
-            I'm a full-stack web developer passionate about building interactive and responsive web applications. While I have more experience with front-end technologies like Next.js, Tailwind CSS, and UI libraries such as Material-UI and Shadcn/ui, I'm a quick learner and always eager to expand my skillset. I thrive in collaborative environments and am excited to contribute to creating amazing applications with a talented team.
+            I&apos;m a full-stack web developer passionate about building interactive and responsive web applications. While I have more experience with front-end technologies like Next.js, Tailwind CSS, and UI libraries such as Material-UI and Shadcn/ui, I&apos;m a quick learner and always eager to expand my skillset. I thrive in collaborative environments and am excited to contribute to creating amazing applications with a talented team.
           </p>
         </div>
         <div>
