@@ -1,5 +1,5 @@
 import React from 'react'
-import { HeroSection, Navbar } from './_components'
+import { About, HeroSection, Navbar } from './_components'
 
 const Home = () => {
   return (
@@ -7,6 +7,7 @@ const Home = () => {
       <Navbar /> 
       <div className='container mt-28 mx-auto px-12 py-4'>
         <HeroSection />
+        <About />
       </div> 
     </div>
   )
